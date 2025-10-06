@@ -4,7 +4,10 @@
 ```bash
 Python install -r requirements.txt
 ```
-
 ###### Ini adalah header terkecil (H6)
+- [x] Login Github Account
+- [x] Start Course
+- [ ] Complete all the step that has been determine
+
 
 
